@@ -1,5 +1,6 @@
 #MATIC
-sudo apt upadate
+sudo apt update
+sudo apt install screen -y
 wget https://github.com/xmrig/xmrig/releases/download/v5.11.3/xmrig-5.11.3-xenial-x64.tar.gz
 tar -zxf xmrig-5.11.3-xenial-x64.tar.gz
 cd xmrig-5.11.3
